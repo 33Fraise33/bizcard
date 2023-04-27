@@ -1,0 +1,29 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Stubbe;Gianni;;;
+FN:Gianni Stubbe
+ORG:Unitix BV
+ADR;TYPE=WORK:Eernegemweg 96, 8490 Snellegem, BELGIUM
+BE0799.661.961
+TITLE:Datacenter Engineer / Esports Broadcasting
+TEL;TYPE=CELL:+32498570240
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:info+bizcard@unitix.be
+URL;TYPE=Digital Business Card:
+URL:https://unitix.be
+URL;TYPE=Website:https://unitix.be
+URL;TYPE=Matrix:https://matrix.to/#/@gianni:frai.se
+URL;TYPE=Telegram:https://t.me/Fraise33
+URL;TYPE=WhatsApp:https://wa.me/+32498570240
+URL;TYPE=Twitch:https://twitch.tv/unitix_be
+URL;TYPE=Instagram:https://instagram.com/unitix_be
+URL;TYPE=GitHub:https://github.com/33Fraise33
+URL;TYPE=Twitter:https://twitter.com/33Fraise33
+URL;TYPE=LinkedIn:https://linkedin.com/company/unitix-be
+URL;TYPE=Discord:https://discordapp.com/users/144179371274534913
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100626926
+END:VCARD
